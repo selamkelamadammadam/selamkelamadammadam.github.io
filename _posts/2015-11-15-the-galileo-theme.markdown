@@ -10,7 +10,7 @@ Landing somewhere between a scholarly publication and an adventurers notebook, t
 
 Suitable for shortform, longform, and probably even waveform. It is purpose-built to accomodate photographic content wonderfully and lends itself well to journaling your sojourn.
 
-
+---
 ---
 layout: post
 title:  "Deneme Başlık 2"
