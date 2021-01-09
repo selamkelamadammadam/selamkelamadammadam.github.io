@@ -13,7 +13,7 @@ Suitable for shortform, longform, and probably even waveform. It is purpose-buil
 
 ---
 layout: post
-title:  "Deneme Başlık"
+title:  "Deneme Başlık 2"
 date:   2015-11-15 13:05:14 +0100
 categories: jekyll theme
 location: TR-tr
